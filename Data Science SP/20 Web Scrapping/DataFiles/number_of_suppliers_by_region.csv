@@ -1,0 +1,152 @@
+"NUTS2","Name","Amount"
+"AT11","Burgenland",1595
+"AT12","Niederösterreich",4995
+"AT13","Wien",10289
+"AT21","Kärnten",2046
+"AT22","Steiermark",3276
+"AT31","Oberösterreich",5476
+"AT32","Salzburg",1766
+"AT33","Tirol",1725
+"AT34","Vorarlberg",1026
+"BE10","Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest",3
+"BE21","Prov. Antwerpen",6
+"BE24","Prov. Vlaams-Brabant",1
+"BE25","Prov. West-Vlaanderen",3
+"BE32","Prov. Hainaut",6
+"BE33","Prov. Liège",4
+"BG34","Югоизточен (Yugoiztochen)",5
+"BG41","Югозападен (Yugozapaden)",6
+"CH01","Région lémanique",2
+"CH02","Espace Mittelland",17
+"CH03","Nordwestschweiz",16
+"CH04","Zürich",29
+"CH05","Ostschweiz",20
+"CH06","Zentralschweiz",5
+"CH07","Ticino",1
+"CZ01","Praha",4
+"CZ02","Střední Čechy",11
+"CZ06","Jihovýchod",4
+"CZ07","Střední Morava",3
+"CZ08","Moravskoslezsko",1
+"DE11","Stuttgart",107
+"DE12","Karlsruhe",74
+"DE13","Freiburg",26
+"DE14","Tübingen",53
+"DE21","Oberbayern",245
+"DE22","Niederbayern",53
+"DE23","Oberpfalz",31
+"DE24","Oberfranken",25
+"DE25","Mittelfranken",54
+"DE26","Unterfranken",15
+"DE27","Schwaben",59
+"DE30","Berlin",31
+"DE40","Brandenburg",36
+"DE50","Bremen",17
+"DE60","Hamburg",28
+"DE71","Darmstadt",96
+"DE72","Gießen",2
+"DE73","Kassel",19
+"DE80","Mecklenburg-Vorpommern",9
+"DE91","Braunschweig",15
+"DE92","Hannover",32
+"DE93","Lüneburg",21
+"DE94","Weser-Ems",13
+"DEA1","Düsseldorf",77
+"DEA2","Köln",50
+"DEA3","Münster",24
+"DEA4","Detmold",26
+"DEA5","Arnsberg",55
+"DEB1","Koblenz",16
+"DEB3","Rheinhessen-Pfalz",13
+"DEC0","Saarland",4
+"DED2","Dresden",33
+"DED4","Chemnitz",27
+"DED5","Leipzig",17
+"DEE0","Sachsen-Anhalt",27
+"DEF0","Schleswig-Holstein",36
+"DEG0","Thüringen",28
+"DK01","Hovedstaden",10
+"DK02","Sjælland",1
+"DK03","Syddanmark",2
+"DK04","Midtjylland",1
+"DK05","Nordjylland",1
+"ES21","País Vasco",2
+"ES30","Comunidad de Madrid",18
+"ES41","Castilla y León",1
+"ES52","Comunidad Valenciana",1
+"FI19","Länsi-Suomi",1
+"FI1B","Helsinki-Uusimaa",5
+"FI1C","Etelä-Suomi",2
+"FI1D","Pohjois- ja Itä-Suomi",1
+"FR10","Île de France",18
+"FR24","Centre",1
+"FR30","Nord - Pas-de-Calais",3
+"FR42","Alsace",1
+"FR52","Bretagne",1
+"FR71","Rhône-Alpes",1
+"FR82","Provence-Alpes-Côte d'Azur",1
+"FRA2","Martinique",1
+"HR04","Kontinentalna Hrvatska",20
+"HU10","Közép-Magyarország",19
+"HU21","Közép-Dunántúl",10
+"HU22","Nyugat-Dunántúl",2
+"HU23","Dél-Dunántúl",1
+"HU31","Észak-Magyarország",5
+"HU32","Észak-Alföld",1
+"HU33","Dél-Alföld",2
+"IE02","Southern and Eastern",1
+"ITC1","Piemonte",1
+"ITC3","Liguria",1
+"ITC4","Lombardia",15
+"ITF1","Abruzzo",2
+"ITF2","Molise",1
+"ITH1","Provincia Autonoma di Bolzano/Bozen",64
+"ITH3","Veneto",9
+"ITH4","Friuli-Venezia Giulia",8
+"ITH5","Emilia-Romagna",5
+"ITI1","Toscana",1
+"ITI2","Umbria",1
+"ITI3","Marche",2
+"ITI4","Lazio",8
+"LI00","Liechtenstein",2
+"LT00","Lietuva",1
+"NL11","Groningen",1
+"NL12","Friesland (NL)",1
+"NL21","Overijssel",2
+"NL22","Gelderland",4
+"NL31","Utrecht",4
+"NL32","Noord-Holland",9
+"NL33","Zuid-Holland",5
+"NL41","Noord-Brabant",2
+"NL42","Limburg (NL)",1
+"NO01","Oslo og Akershus",6
+"NO02","Hedmark og Oppland",3
+"NO04","Agder og Rogaland",1
+"PL12","Mazowieckie",1
+"PL41","Wielkopolskie",3
+"PL51","Dolnośląskie",7
+"PL61","Kujawsko-pomorskie",1
+"PT17","Área Metropolitana de Lisboa",1
+"RO11","Nord-Vest",1
+"RO32","Bucureşti - Ilfov",2
+"RO41","Sud-Vest Oltenia",2
+"RO42","Vest",2
+"SE11","Stockholm",5
+"SE12","Östra Mellansverige",1
+"SE22","Sydsverige",5
+"SI03","Vzhodna Slovenija",8
+"SI04","Zahodna Slovenija",67
+"SK01","Bratislavský kraj",1
+"SK02","Západné Slovensko",1
+"SK03","Stredné Slovensko",1
+"SK04","Východné Slovensko",6
+"UKH1","East Anglia",1
+"UKH2","Bedfordshire and Hertfordshire",1
+"UKI3","Inner London - West",3
+"UKI4","Inner London - East",1
+"UKI7","Outer London - West and North West",1
+"UKJ1","Berkshire, Buckinghamshire and Oxfordshire",2
+"UKJ2","Surrey, East and West Sussex",23
+"UKK1","Gloucestershire, Wiltshire and Bristol/Bath area",12
+"UKK2","Dorset and Somerset",1
+"UKL2","East Wales",1

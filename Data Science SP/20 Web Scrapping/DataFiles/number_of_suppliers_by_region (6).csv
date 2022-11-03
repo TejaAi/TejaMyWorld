@@ -1,0 +1,172 @@
+"NUTS2","Name","Amount"
+"AT11","Burgenland",2
+"AT12","Niederösterreich",1
+"AT13","Wien",16
+"AT22","Steiermark",5
+"AT31","Oberösterreich",5
+"AT32","Salzburg",1
+"AT33","Tirol",3
+"AT34","Vorarlberg",1
+"BE10","Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest",12727
+"BE21","Prov. Antwerpen",7411
+"BE22","Prov. Limburg (BE)",2751
+"BE23","Prov. Oost-Vlaanderen",5367
+"BE24","Prov. Vlaams-Brabant",7339
+"BE25","Prov. West-Vlaanderen",4352
+"BE31","Prov. Brabant Wallon",1691
+"BE32","Prov. Hainaut",2628
+"BE33","Prov. Liège",4555
+"BE34","Prov. Luxembourg (BE)",573
+"BE35","Prov. Namur",1436
+"BG33","Североизточен (Severoiztochen)",1
+"BG41","Югозападен (Yugozapaden)",1
+"BG42","Южен централен (Yuzhen tsentralen)",1
+"CH01","Région lémanique",18
+"CH02","Espace Mittelland",7
+"CH03","Nordwestschweiz",3
+"CH04","Zürich",10
+"CH05","Ostschweiz",9
+"CH06","Zentralschweiz",5
+"CH07","Ticino",2
+"CY00","Κύπρος (Kypros)",5
+"CZ01","Praha",3
+"CZ02","Střední Čechy",3
+"CZ06","Jihovýchod",1
+"CZ08","Moravskoslezsko",1
+"DE11","Stuttgart",10
+"DE12","Karlsruhe",12
+"DE13","Freiburg",4
+"DE14","Tübingen",7
+"DE21","Oberbayern",30
+"DE22","Niederbayern",5
+"DE24","Oberfranken",2
+"DE25","Mittelfranken",10
+"DE26","Unterfranken",1
+"DE27","Schwaben",4
+"DE30","Berlin",12
+"DE40","Brandenburg",3
+"DE50","Bremen",3
+"DE60","Hamburg",6
+"DE71","Darmstadt",8
+"DE80","Mecklenburg-Vorpommern",1
+"DE91","Braunschweig",4
+"DE92","Hannover",7
+"DE93","Lüneburg",9
+"DE94","Weser-Ems",3
+"DEA1","Düsseldorf",23
+"DEA2","Köln",33
+"DEA3","Münster",30
+"DEA4","Detmold",2
+"DEA5","Arnsberg",15
+"DEB1","Koblenz",5
+"DEB2","Trier",3
+"DEC0","Saarland",2
+"DED2","Dresden",1
+"DED4","Chemnitz",5
+"DEE0","Sachsen-Anhalt",2
+"DEF0","Schleswig-Holstein",20
+"DEG0","Thüringen",8
+"DK01","Hovedstaden",4
+"DK02","Sjælland",2
+"DK03","Syddanmark",1
+"DK04","Midtjylland",4
+"EE00","Eesti",5
+"ES11","Galicia",2
+"ES12","Principado de Asturias",1
+"ES21","País Vasco",1
+"ES24","Aragón",1
+"ES30","Comunidad de Madrid",34
+"ES51","Cataluña",2
+"ES52","Comunidad Valenciana",2
+"ES61","Andalucía",1
+"FI1B","Helsinki-Uusimaa",3
+"FI1C","Etelä-Suomi",1
+"FI1D","Pohjois- ja Itä-Suomi",2
+"FR10","Île de France",171
+"FR21","Champagne-Ardenne",13
+"FR22","Picardie",10
+"FR23","Haute-Normandie",3
+"FR24","Centre",15
+"FR25","Basse-Normandie",2
+"FR26","Bourgogne",8
+"FR30","Nord - Pas-de-Calais",46
+"FR41","Lorraine",20
+"FR42","Alsace",12
+"FR51","Pays de la Loire",14
+"FR52","Bretagne",26
+"FR53","Poitou-Charentes",6
+"FR61","Aquitaine",14
+"FR62","Midi-Pyrénées",11
+"FR63","Limousin",1
+"FR71","Rhône-Alpes",93
+"FR72","Auvergne",13
+"FR81","Languedoc-Roussillon",37
+"FR82","Provence-Alpes-Côte d'Azur",38
+"FR83","Corse",5
+"HU10","Közép-Magyarország",1
+"HU21","Közép-Dunántúl",1
+"IE01","Border, Midland and Western",1
+"IS00","Ísland",2
+"ITC1","Piemonte",4
+"ITC3","Liguria",1
+"ITC4","Lombardia",29
+"ITF1","Abruzzo",1
+"ITF3","Campania",4
+"ITF4","Puglia",1
+"ITG2","Sardegna",1
+"ITH3","Veneto",13
+"ITH4","Friuli-Venezia Giulia",2
+"ITH5","Emilia-Romagna",2
+"ITI1","Toscana",5
+"ITI2","Umbria",1
+"ITI3","Marche",1
+"ITI4","Lazio",4
+"LU00","Luxembourg",20
+"MT00","Malta",1
+"NL11","Groningen",4
+"NL12","Friesland (NL)",13
+"NL13","Drenthe",3
+"NL21","Overijssel",11
+"NL22","Gelderland",29
+"NL23","Flevoland",13
+"NL31","Utrecht",42
+"NL32","Noord-Holland",35
+"NL33","Zuid-Holland",62
+"NL34","Zeeland",12
+"NL41","Noord-Brabant",57
+"NL42","Limburg (NL)",32
+"NO02","Hedmark og Oppland",6
+"NO03","Sør-Østlandet",5
+"PL12","Mazowieckie",8
+"PL63","Pomorskie",2
+"PT11","Norte",6
+"PT16","Centro (PT)",4
+"PT17","Área Metropolitana de Lisboa",1
+"RO32","Bucureşti - Ilfov",4
+"SE11","Stockholm",3
+"SE12","Östra Mellansverige",2
+"SE22","Sydsverige",2
+"SE23","Västsverige",1
+"SE33","Övre Norrland",1
+"TR31","Izmir",1
+"TR51","Ankara",2
+"UKC2","Northumberland and Tyne and Wear",2
+"UKD3","Greater Manchester",2
+"UKD6","Cheshire",2
+"UKE2","North Yorkshire",1
+"UKF1","Derbyshire and Nottinghamshire",4
+"UKF3","Lincolnshire",1
+"UKH1","East Anglia",2
+"UKH2","Bedfordshire and Hertfordshire",1
+"UKH3","Essex",2
+"UKI3","Inner London - West",12
+"UKI4","Inner London - East",8
+"UKI6","Outer London - South",2
+"UKI7","Outer London - West and North West",6
+"UKJ1","Berkshire, Buckinghamshire and Oxfordshire",3
+"UKJ2","Surrey, East and West Sussex",7
+"UKJ4","Kent",1
+"UKK1","Gloucestershire, Wiltshire and Bristol/Bath area",5
+"UKL2","East Wales",2
+"UKM2","Eastern Scotland",2
+"UKM3","South Western Scotland",1
